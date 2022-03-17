@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mo-taz
-- 👀 I’m interested in ... nachine learning ,data science ,cloud computing and blockchain
+- 👀 I’m interested in ... machine learning ,data science ,cloud computing and blockchain
 - 🌱 I’m currently learning ... blockchain and google cloud
 - 💞️ I’m looking to collaborate on ... projects ,internship,conferances
-- 📫 How to reach me ...
+- 📫 How to reach me ... will be added later
 
 <!---
 Mo-taz/Mo-taz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
