@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mo-taz
-- 👀 I’m interested in ... machine learning ,data science ,cloud computing and blockchain
-- 🌱 I’m currently learning ... blockchain and google cloud
+- 👋 Hi, I’m @Mo-taz, An Ambitious, determined, young lad, beginner software developer but aiming to get better and better every single day 
+- 👀 I’m interested in ... ,mobile development and blockchain
+- 🌱 I’m currently learning ... Flutter and  blockchain and kotlin in the future 
 - 💞️ I’m looking to collaborate on ... projects ,internship,conferances
 - 📫 How to reach me ... will be added later
 
